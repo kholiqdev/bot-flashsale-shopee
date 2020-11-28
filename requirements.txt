@@ -1,0 +1,17 @@
+attrs
+autopep8
+click
+importlib-metadata
+itsdangerous
+Jinja2
+jsonschema
+MarkupSafe
+pycodestyle
+pyrsistent
+python-dotenv
+selenium
+six
+toml
+urllib3
+Werkzeug
+zipp
